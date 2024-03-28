@@ -4,8 +4,6 @@
 </br>
 <img alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> **sheifer1333@gmail.com**
 
-![SH-Kepler GitHub stats](https://github-readme-stats.vercel.app/api?username=SH-Kepler&show_icons=true&theme=dracula)
-
 ## Principais Tecnologias que utilizo
 
 <div>
